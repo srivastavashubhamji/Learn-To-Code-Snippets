@@ -1,7 +1,16 @@
-# Learn-To-Code (Snippets)
+## Find Best Tech Articles: [ShubhamKLogic.com](https://shubhamklogic.com/learn-to-code-posts)
+
+#### [Random Number Generators in Java](https://shubhamklogic.com/random-number-generator-java/)  
+
+#### [Learn to Code HTML and CSS- How They Work?](https://shubhamklogic.com/guide-to-start-html-and-css/)
+
+#### [What is SQL? The Ultimate Guide For Beginners Of SQL & Database](https://shubhamklogic.com/what-is-sql-complete-guide-for-sql/)
+
+#### [37+ Best Places To Learn Coding (Beginners-Experts, Low Cost, Even Free)](https://shubhamklogic.com/best-places-to-learn-to-code-for-free/)
 
 
-CodePen Embedds:
+
+## CodePen Embedds:
 
 #### HTML-CSS cross Btn #### 
 ---> https://codepen.io/ShubhamKLogic/pen/RwGWvKG
@@ -22,19 +31,7 @@ Github Embedds:
 ---> https://gist.github.com/srivastavashubhamji/c21fe252cb261fbe7a194d8c7f412873
 
 
-## Find helpful articles on Progamming & Technologies @ShubhamKLogic.com ##
-
-#### Learn to Code HTML and CSS- How They Work? Uses (+Live Examples) #### 
----> https://shubhamklogic.com/guide-to-start-html-and-css/
-
-#### What is SQL? The Ultimate Guide For Beginners Of SQL And Database #### 
----> https://shubhamklogic.com/what-is-sql-complete-guide-for-sql/
-
-#### 37+ Best Places To Learn Coding (Beginner To Expert, Low Cost, Even Code For Free) #### 
----> https://shubhamklogic.com/best-places-to-learn-to-code-for-free/
-
-
 ## Career In Tech ##
 ---> https://shubhamklogic.com/careers
 
-# Get more at ShubhamKLogic.com (IT's FREE!!!) #
+# Keep Smiling, Think Logical - [ShubhamKLogic.com](https://shubhamklogic.com/learn-to-code-posts)
